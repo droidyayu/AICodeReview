@@ -7,6 +7,12 @@ This repository contains a GitHub Actions script for automated AI-powered code r
 - Uses Gemini to generate actionable inline review comments
 - Posts comments directly to the pull request
 
+## Example: AI Review Inline Comment
+
+Below is a screenshot showing how the AI Code Review workflow leaves inline comments on a pull request:
+
+![AI Review Inline Comment](screenshot/codereview.png)
+
 ## Getting Started
 
 ### Prerequisites
